@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setuptools.setup(
     name="apigee-trace-apim", # Replace with your own username
-    version="0.0.1",
+    version="0.0.12",
     author="NHS Digital APIM",
     author_email="apim@nhs.net",
     description="A package to provide apigee trace functionality",
