@@ -1,2 +1,2 @@
 def foo():
-    print("test func")
+    print("test func v2")
